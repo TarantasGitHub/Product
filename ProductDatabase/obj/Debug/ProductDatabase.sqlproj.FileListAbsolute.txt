@@ -1,0 +1,9 @@
+C:\Sources\GeometricFigures\GeometricFigures\ProductDatabase\bin\Debug\ProductDatabase.dacpac
+C:\Sources\GeometricFigures\GeometricFigures\ProductDatabase\bin\Debug\ProductDatabase.dll
+C:\Sources\GeometricFigures\GeometricFigures\ProductDatabase\bin\Debug\ProductDatabase.pdb
+C:\Sources\GeometricFigures\GeometricFigures\ProductDatabase\obj\Debug\ProductDatabase.dll
+C:\Sources\GeometricFigures\GeometricFigures\ProductDatabase\obj\Debug\ProductDatabase.pdb
+C:\Sources\GeometricFigures\GeometricFigures\ProductDatabase\obj\Debug\Model.xml
+C:\Sources\GeometricFigures\GeometricFigures\ProductDatabase\obj\Debug\refactor.xml
+C:\Sources\GeometricFigures\GeometricFigures\ProductDatabase\obj\Debug\postdeploy.sql
+C:\Sources\GeometricFigures\GeometricFigures\ProductDatabase\obj\Debug\predeploy.sql

@@ -1,0 +1,7 @@
+C:\Sources\GeometricFigures\GeometricFigures\GeometricFigures\bin\Debug\GeometricFigures.exe.config
+C:\Sources\GeometricFigures\GeometricFigures\GeometricFigures\bin\Debug\GeometricFigures.exe
+C:\Sources\GeometricFigures\GeometricFigures\GeometricFigures\bin\Debug\GeometricFigures.pdb
+C:\Sources\GeometricFigures\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.csprojResolveAssemblyReference.cache
+C:\Sources\GeometricFigures\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.csproj.CoreCompileInputs.cache
+C:\Sources\GeometricFigures\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.exe
+C:\Sources\GeometricFigures\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.pdb
